@@ -41,6 +41,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - "BPFDoor"
   - ["Part 1 - The Past"][1101]
   - ["Part 2 - The Present"][1102]
+- ["Beating xloader at Speed: Generative AI as a Force Multiplier for Reverse Engineering"][1189]
 - ["Best practices for key derivation"][1023]
 - ["Binder Fuzzing"][1146]
 - ["Blasting Past iOS 18"][1038]
@@ -65,6 +66,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["CVE-2025-23016 - EXPLOITING THE FASTCGI LIBRARY"][1086]
 - ["CVE-2025-37752 wo Bytes Of Madness: Pwning The Linux Kernel With A 0x0000 Written 262636 Bytes Out-Of-Bounds"][1076]
 - ["CVE-2025-38001 Exploiting All Google kernelCTF Instances And Debian 12 With A 0-Day For $82k: An RBTree Family Drama"][1163]
+- ["CVE-2025-6554: The (rabbit) Hole"][1188]
 - ["Debugging the Pixel 8 kernel via KGDB"][1123]
 - ["Defeating String Obfuscation in Obfuscated NodeJS Malware using AST"][1068]
 - ["Denial of Ruzzing: Rust in the Windows Kernel"][1185]
@@ -2552,3 +2554,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1185]: https://research.checkpoint.com/2025/denial-of-fuzzing-rust-in-the-windows-kernel/
 [1186]: https://blog.quarkslab.com/nvidia_gpu_kernel_vmalloc_exploit.html
 [1187]: https://www.usenix.org/system/files/woot25-muench.pdf
+[1188]: https://retr0.zip/blog/cve-2025-6554-the-rabbit-hole.html
+[1189]: https://research.checkpoint.com/2025/generative-ai-for-reverse-engineering/
