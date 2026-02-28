@@ -46,6 +46,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Binder Fuzzing"][1146]
 - ["Blasting Past iOS 18"][1038]
 - ["Booting into Breaches Hunting Windows SecureBoot's Remote Attack Surfaces"][1138]
+- ["Bootloader to Iris: A Security Teardown of a Hardware Wallet"][1199]
 - ["Breaking Disassembly — Abusing symbol resolution in Linux programs to obfuscate library calls"][1125]
 - ["Breaking Into a Brother (MFC-J1010DW): Three Security Flaws in a Seemingly Innocent Printer"][1196]
 - ["Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages"][1039]
@@ -105,6 +106,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 1][1109]
   - [Part 2][1110]
 - ["Hacking Sonoff Smart Home IoT Device - Extract, Modify, Boot, Intercept, Clone!"][1129]
+- ["Hacking the Nokia Beacon 1 Router: UART, Command Injection, and Password Generation with Qiling"][1198]
 - ["HITCON CTF 2025 -- calc"][1145]
 - ["How I ruined my vacation by reverse engineering WSC"][1077]
 - ["How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation"][1090]
@@ -2572,3 +2574,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1195]: https://mrt4ntr4.github.io/Windows-Heap-Exploitation-dadadb/
 [1196]: https://starlabs.sg/blog/2025/11-breaking-into-a-brother-mfc-j1010dw/
 [1197]: https://kylebot.net/papers/ret2entry.pdf
+[1198]: https://spaceraccoon.dev/nokia-beacon-router-uart-command-injection/
+[1199]: https://hhj4ck.github.io/en/iris-wallet-security-teardown.html
