@@ -25,6 +25,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 - ["A First Glimpse of the Starlink User Ternimal"][1084]
 - ["A Fuzzy Escape - A tale of vulnerability research on hypervisors"][1151]
+- ["A modern tale of blinkenlights"][1200]
 - ["A Quick Dive Into The Linux Kernel Page Allocator"][1098]
 - ["A Series of io_uring pbuf Vulnerabilities"][1083]
 - ["A Tour of eBPF in the Linux Kernel: Observability, Security and Networking"][1181]
@@ -2576,3 +2577,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1197]: https://kylebot.net/papers/ret2entry.pdf
 [1198]: https://spaceraccoon.dev/nokia-beacon-router-uart-command-injection/
 [1199]: https://hhj4ck.github.io/en/iris-wallet-security-teardown.html
+[1200]: https://blog.quarkslab.com/modern-tale-blinkenlights.html
