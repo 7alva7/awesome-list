@@ -50,6 +50,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["From KernelSnitch to Practical msg_msg/pipe_buffer Heap KASLR Leaks"][1279]
 - ["General Graboids: Worms and Remote Code Execution in Command & Conquer"][1250]
 - ["Have you patched? Are you sure? The story of the sticky Supermicro BMC bugs"][1248]
+- ["Here We Go Again: A Five-Bug Chain to Arbitrary APK Install on Samsung S25"][1295]
 - ["HDD Firmware Hacking Part 1"][1290]
 - "Hooked on Linux"
   - ["Rootkit Taxonomy, Hooking Techniques and Tradecraft"][1281]
@@ -74,6 +75,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Static Devirtualization of Themida"][1292]
 - ["Table Manners: Diving into Linux Pagetables exp techniques"][1280]
 - ["TAPOcalypse Now: Exploiting TP-Link Smart Devices From Anywhere"][1291]
+- ["The Cost of Understanding: LLM-Driven Reverse Engineering vs Iterative LLM Obfuscation"][1296]
 - ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
 - ["TP-Link ER605 DDNS Pre-Auth RCE: Chaining CVE-2024-5242, CVE-2024-5243, CVE-2024-5244"][1264]
 - ["Trailmark turns code into graphs"][1286]
@@ -2773,3 +2775,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1292]: https://back.engineering/blog/09/05/2026/
 [1293]: https://www.youwei.site/papers/SP2025b.pdf
 [1294]: https://www.synacktiv.com/en/publications/make-it-blink-over-the-air-exploitation-of-the-philips-hue-bridge
+[1295]: https://bugscale.ch/blog/here-we-go-again-a-five-bug-chain-to-arbitrary-apk-install-on-samsung-s25/
+[1296]: https://www.elastic.co/security-labs/llm-reversing-vs-llm-obfuscation
