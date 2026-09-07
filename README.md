@@ -56,6 +56,10 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Exploiting MediaTek's Download Agent"][1232]
 - ["From DDS Packets to Robot Shells: Two RCEs in Unitree Robots (CVE-2026-27509 & CVE-2026-27510)"][1245]
 - ["From KernelSnitch to Practical msg_msg/pipe_buffer Heap KASLR Leaks"][1279]
+- "Fuzzing GPSD"
+  - ["The Lexer Harness"][1311]
+  - ["Lessons Learned"][1312]
+  - ["The Bugs"][1313]
 - ["General Graboids: Worms and Remote Code Execution in Command & Conquer"][1250]
 - ["Have you patched? Are you sure? The story of the sticky Supermicro BMC bugs"][1248]
 - ["Here We Go Again: A Five-Bug Chain to Arbitrary APK Install on Samsung S25"][1295]
@@ -2806,3 +2810,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1308]: https://www.0xkato.xyz/how-llms-actually-work/
 [1309]: https://maorsabag.github.io/posts/adaptix-stealthpalace/sleeping-beauty/
 [1310]: https://maorsabag.github.io/posts/adaptix-stealthpalace/sleeping-beauty-ii/[]
+[1311]: https://xchglabs.com/blog/fuzzing-gpsd-part-one.html
+[1312]: https://xchglabs.com/blog/fuzzing-gpsd-part-two.html
+[1313]: https://xchglabs.com/blog/fuzzing-gpsd-part-three.html
