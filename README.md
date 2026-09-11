@@ -88,6 +88,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - "Sleeping Beauty"
   - ["Putting Adaptix to Bed with Crystal Palace"][1309]
   - ["CFG, CET, and Stack Spoofing"][1310]
+- ["SoK: All You Ever Wanted to Know About Bootloader Security But Were Afraid to Ask"][1314]
 - ["Some notes on the security properties of the pipe_buffer kernel object"][1285]
 - ["Static Devirtualization of Themida"][1292]
 - ["Table Manners: Diving into Linux Pagetables exp techniques"][1280]
@@ -2813,3 +2814,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1311]: https://xchglabs.com/blog/fuzzing-gpsd-part-one.html
 [1312]: https://xchglabs.com/blog/fuzzing-gpsd-part-two.html
 [1313]: https://xchglabs.com/blog/fuzzing-gpsd-part-three.html
+[1314]: https://machiry.github.io/files/soksp2026.pdf
