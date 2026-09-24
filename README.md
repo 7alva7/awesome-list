@@ -30,6 +30,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 3][1243]
 - ["A Brief Analysis of a Vulnerability in the Glibc (CVE-2025-4802)"][1277]
 - ["A Race Within A Race: Exploiting CVE-2025-38617 in Linux Packet Sockets"][1283]
+- ["About PCIe DMA Cheats: Protocol, IOMMU, Hardware, and Detection"][1317]
 - ["Achieving remote code execution in LangSmith Playground using unsafe template formatting"][1271]
 - ["AI-FI: Reproducing adb to root on Google's TV Streamer using Claude in less than 15 minutes"][1307]
 - ["Apache Pony Mail CRLF Injection and SSRF Leading to Full Account Takeover"][1305]
@@ -2819,3 +2820,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1314]: https://machiry.github.io/files/soksp2026.pdf
 [1315]: https://kuzey.rs/posts/MaliUAF/
 [1316]: https://hhj4ck.github.io/en/break-the-trust-chain-of-the-ethereum-phone.html
+[1317]: https://kernullist.github.io/kernullist-blog/posts/pcie-dma-cheats/
