@@ -57,6 +57,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC"][1223]
 - ["Exploiting CVE-2024-1065 via the Page Cache"][1315]
 - ["Exploiting MediaTek's Download Agent"][1232]
+- ["FatGid: A four-byte type, an eight-byte stride, one root shell"][1318]
 - ["From DDS Packets to Robot Shells: Two RCEs in Unitree Robots (CVE-2026-27509 & CVE-2026-27510)"][1245]
 - ["From KernelSnitch to Practical msg_msg/pipe_buffer Heap KASLR Leaks"][1279]
 - "Fuzzing GPSD"
@@ -2821,3 +2822,4 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1315]: https://kuzey.rs/posts/MaliUAF/
 [1316]: https://hhj4ck.github.io/en/break-the-trust-chain-of-the-ethereum-phone.html
 [1317]: https://kernullist.github.io/kernullist-blog/posts/pcie-dma-cheats/
+[1318]: https://fatgid.io
